@@ -47,6 +47,15 @@ i {
   padding: 0;
 }
 
+h2 {
+  color: aqua;
+  font-size: 90px;
+  font-weight: 900;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
